@@ -4,7 +4,7 @@
 [![Code Climate](https://codeclimate.com/github/hexlet-boilerplates/php-package/badges/gpa.svg)](https://codeclimate.com/github/hexlet-boilerplates/php-package)
 [![Issue Count](https://codeclimate.com/github/hexlet-boilerplates/php-package/badges/issue_count.svg)](https://codeclimate.com/github/hexlet-boilerplates/php-package/issues)
 [![Test Coverage](https://codeclimate.com/github/hexlet-boilerplates/php-package/badges/coverage.svg)](https://codeclimate.com/github/hexlet-boilerplates/php-package/coverage)
-
+[![learn-github-actions-hexlet](https://github.com/GitUserMaxim/hexlet-phpunit/actions/workflows/learn-github-actions-hexlet.yml/badge.svg?event=push)](https://github.com/GitUserMaxim/hexlet-phpunit/actions/workflows/learn-github-actions-hexlet.yml)
 ## Prerequisites
 
 * Linux, Macos, WSL
